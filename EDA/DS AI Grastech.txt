@@ -1,0 +1,19 @@
+Basics Of Python
+Advanced Python
+Linear Regression
+Logistic Regression
+Decision Tree
+Random Forest
+K-Nearest Neighbours
+K_Means Clustering
+Principal Component Analysis
+Natural Language Processing
+
+Datasets
+1. Diamonds            Regression
+2. Bank Loan           Regression
+3. House Price         PCA
+4. Titanic
+5. SNSdata1
+6. US Sales Data
+7.

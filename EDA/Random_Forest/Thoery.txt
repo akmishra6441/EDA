@@ -1,0 +1,7 @@
+Classification: We run same dataset on different models then output are analyzed and then predicted output is choosen among the values which is most recurring 
+Regression: We run same dataset on different models then predicted values MSE and RMSE is calculated.... If avg model performs better than indvidual models then we use it else individual ones are used
+Follows all parameter of decision tree  contains nestimator
+Nestimator : applies number of models    default 100
+max_depth : default none           number of layers formed by decision tree
+min_samples_split: default 2       
+min_samples_leaf : default 1
